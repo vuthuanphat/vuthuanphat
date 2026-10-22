@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="68" viewBox="0 0 840 68" role="img" aria-label="TypeScript, Node.js, SQLite, and Go experimental">
+  <rect width="840" height="68" rx="9" fill="#10111b"/>
+  <g font-family="monospace" font-weight="700" text-anchor="middle">
+    <rect x="12" y="12" width="196" height="44" rx="6" fill="#131f31" stroke="#42adff"/>
+    <text x="110" y="39" font-size="15" fill="#86ccff">01 / TypeScript</text>
+    <rect x="220" y="12" width="182" height="44" rx="6" fill="#18271c" stroke="#9be260"/>
+    <text x="311" y="39" font-size="15" fill="#b8fa81">02 / Node.js</text>
+    <rect x="414" y="12" width="178" height="44" rx="6" fill="#14272c" stroke="#5ae3ed"/>
+    <text x="503" y="39" font-size="15" fill="#8af2f4">03 / SQLite</text>
+    <rect x="604" y="12" width="224" height="44" rx="6" fill="#24182f" stroke="#b17aff"/>
+    <text x="666" y="39" font-size="15" fill="#cba0ff">04 / Go</text>
+    <text x="767" y="39" font-size="10" fill="#f0d9ff">EXPERIMENTAL</text>
+  </g>
+</svg>

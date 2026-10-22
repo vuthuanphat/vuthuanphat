@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="38" viewBox="0 0 132 38" role="img" aria-label="Visit Cyno">
+  <rect x="1" y="1" width="130" height="36" rx="7" fill="#10111b" stroke="#b8fa42" stroke-width="1.5"/>
+  <path d="M13 19h6m-3-3v6" stroke="#b8fa42" stroke-width="1.5"/>
+  <text x="76" y="24" text-anchor="middle" font-family="monospace" font-size="13" font-weight="700" fill="#d7ff91" letter-spacing="1">CYNO ↗</text>
+</svg>
