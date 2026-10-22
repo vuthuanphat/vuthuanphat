@@ -5,10 +5,8 @@
   <a href="https://github.com/vuthuanphat6-byte/lmti-atlas"><img src="assets/link-atlas.svg" alt="Explore LMTI Atlas — public alpha" height="38" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/thuan-phat-vu-035b101bb/"><img src="assets/link-linkedin.svg" alt="Connect on LinkedIn" height="38" /></a>
   <br /><br />
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/terminal-static.png" />
-    <img src="assets/terminal-typing.gif" alt="Terminal: Cyno // business software + AI. LMTI Atlas // public alpha. Build with intent. Ship with attitude." width="100%" />
-  </picture>
+  <img src="assets/terminal-typing.gif" alt="Terminal: Cyno // business software + AI. LMTI Atlas // public alpha. Build with intent. Ship with attitude." width="100%" />
+  <br /><sub><a href="assets/terminal-static.png">Static view</a></sub>
 </div>
 
 <br />
