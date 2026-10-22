@@ -2,7 +2,7 @@
   <img src="assets/neon-banner.png" alt="Edgar Vũ — Cyno builder. Code. Build. Repeat. Neon streetwear artwork with a hooded coder." width="100%" />
   <br /><br />
   <a href="https://cyno.com.vn/"><img src="assets/link-cyno.svg" alt="Visit Cyno" height="38" /></a>&nbsp;
-  <a href="https://github.com/vuthuanphat6-byte/lmti-atlas"><img src="assets/link-atlas.svg" alt="Explore LMTI Atlas — public alpha" height="38" /></a>&nbsp;
+  <a href="https://github.com/vuthuanphat/lmti-atlas"><img src="assets/link-atlas.svg" alt="Explore LMTI Atlas — public alpha" height="38" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/thuan-phat-vu-035b101bb/"><img src="assets/link-linkedin.svg" alt="Connect on LinkedIn" height="38" /></a>
   <br /><br />
   <img src="assets/terminal-typing.svg" alt="Terminal: Cyno // business software + AI. LMTI Atlas // public alpha. Build with intent. Ship with attitude." width="100%" />
@@ -27,7 +27,7 @@ edgar@cyno:~$ cat mindset.txt
 
 ### 🧠 `02 // CURRENT BUILD`
 
-## [LMTI Atlas](https://github.com/vuthuanphat6-byte/lmti-atlas)
+## [LMTI Atlas](https://github.com/vuthuanphat/lmti-atlas)
 
 **Project memory. Better context. Less repeated exploration.**
 
@@ -43,7 +43,7 @@ A local-first project memory and safety layer for AI coding agents.
 
 Interfaces may change before a stable release. Memory supports source-code verification, tests, and human review.
 
-**[Explore the code →](https://github.com/vuthuanphat6-byte/lmti-atlas)**
+**[Explore the code →](https://github.com/vuthuanphat/lmti-atlas)**
 
 <img src="assets/neon-rule.svg" alt="" width="100%" />
 
