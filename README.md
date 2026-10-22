@@ -23,7 +23,7 @@ edgar@cyno:~$ cat mindset.txt
 > verify before you ship
 ```
 
-<img src="assets/neon-divider.svg" alt="" width="100%" />
+<img src="assets/neon-divider.svg?v=2" alt="" width="100%" />
 
 ### 🧠 `02 // CURRENT BUILD`
 
@@ -45,7 +45,7 @@ Interfaces may change before a stable release. Memory supports source-code verif
 
 **[Explore the code →](https://github.com/vuthuanphat6-byte/lmti-atlas)**
 
-<img src="assets/neon-divider.svg" alt="" width="100%" />
+<img src="assets/neon-divider.svg?v=2" alt="" width="100%" />
 
 ### 🛠️ `03 // THE TOOLBOX`
 
